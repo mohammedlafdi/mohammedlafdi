@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Lafdi 👋
 
-<!--
-**mohammedlafdi/mohammedlafdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌌 Inside the Terminal
+
+- 👤 **Who am I:** A mind driven by logic and aesthetics—blending motion with code.
+- 🛠️ **Current Focus:** Status: Code in progress, vision in motion.
+- 🧰 **The Stack:** - *Vibe & Motion:* Premiere Pro | After Effects | Photoshop
+  - *Logic & Automation:* Python (Learning) | Git
+- 📬 **Ping Me:** Insta: [Mohamed Lafdi](https://instagram.com/mlafdi03)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedlafdi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <sub>"The best way to predict the future is to invent it."</sub>
+</p>
