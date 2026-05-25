@@ -1,45 +1,35 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwZ3VvZnM1ZzI0b3d6NXp5N3BvY3ZqN3M4bW9icXpndXpndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/chE96jZfLRm71mSbc9/giphy.gif" width="180" style="border-radius: 50%;" />
+# Hey there, I'm Mlafdi! 👋
+
+🎬 **Video Editor (Premiere Pro) by day** | 💻 **Backend Architecture Explorer by night**
+
+> "Powered by curated Spotify playlists, deep anime lo-fi beats, and solid backend logic." 🎧 😈
+
+---
+
+## 📂 Tech Stack & Tools
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-FF0054?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Backend Dev Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mlafdi&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ff79c6&text_color=a9b1d6&bg_color=1a1b26" alt="Mlafdi's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlafdi&theme=tokyonight&ring=ff79c6&fire=ff79c6&currStreakNum=a9b1d6&sideLabels=a9b1d6&background=1a1b26" alt="Mlafdi's Streak Stats" height="150" />
 </p>
 
-<h1 align="center">Hey there, I'm Mlafdi! 👋</h1>
-
-<p align="center">
-  <b>🎬 Video Editor (Premiere Pro) by day | 💻 Backend Architecture Explorer by night</b>
-</p>
-
-<p align="center">
-  <i>"Powered by curated Spotify playlists, deep anime lo-fi beats, and solid backend logic."</i> 🎧☕
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlafdi&layout=compact&theme=tokyonight&title_color=ff79c6&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### 🧰 Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+## 👀 Profile Visitors
 
----
-
-### 📊 Backend Dev Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mohammedlafdi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Mlafdi Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mohammedlafdi&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Mlafdi Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedlafdi&theme=tokyonight&hide_border=true" width="60%" alt="Mlafdi Streak" />
-</p>
-
----
-
-### 👁️ Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedlafdi&color=blueviolet&style=flat-square" alt="Mlafdi Visitors" />
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=mlafdi&color=ff79c6&style=flat-square&label=Profile+Views)
