@@ -1,24 +1,85 @@
-# 👨‍💻 mlafdi.json
+# MLafdi ⚡
 
-```json
-{
-  "identity": "Mlafdi",
-  "role_day": "Video Editor (Premiere Pro)",
-  "role_night": "Backend Architecture Explorer",
-  "fuel": ["Spotify Playlists", "Deep Anime Lo-Fi Beats", "Solid Backend Logic"]
+```js
+while(alive){
+   eat();
+   code();
+   debug();
+   repeat();
 }
-🛠️ System.getStack()
-<p align="left">
-<img src="[https://skillicons.dev/icons?i=py,js,nodejs,git,vscode&theme=dark](https://skillicons.dev/icons?i=py,js,nodejs,git,vscode&theme=dark)" />
-</p>
-Note: Adobe Premiere Pro is also configured in the media pipelines.
-📊 fetch_insights.sh
-<p align="left">
-<img src="[https://github-readme-stats.vercel.app/api?username=mohammedlafdi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9](https://github-readme-stats.vercel.app/api?username=mohammedlafdi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)" alt="GitHub Stats" height="150" />
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=mohammedlafdi&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9](https://github-readme-streak-stats.herokuapp.com/?user=mohammedlafdi&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9)" alt="Streak Stats" height="150" />
-</p>
-<p align="left">
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedlafdi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedlafdi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)" alt="Top Languages" height="140" />
-</p>
-👁️ traffic_monitor.log
-GET /profile/visitors HTTP/1.1 200 OK
+```
+
+Backend developer who disappeared from society to communicate with servers instead of humans.  
+If you can’t find me outside, check the terminal… probably fixing a bug created 5 minutes ago.  
+Currently addicted to JavaScript, APIs, databases, and turning coffee into backend systems.  
+Also editing videos with [Adobe Premiere Pro](chatgpt://generic-entity?number=0) because coding pain alone wasn’t enough.
+
+---
+
+## 🧠 Currently Learning
+
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- Backend Architecture
+- Linux
+- APIs & Databases
+- Premiere Pro Editing
+
+---
+
+## ⚒️ Developer Starter Pack
+
+- 2 hours coding  
+- 7 hours debugging  
+- 1 random error destroying mental health  
+- "It worked yesterday"  
+- Opening Stack Overflow before even thinking
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mohammedlafdi&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedlafdi&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=mohammedlafdi&color=blueviolet&style=for-the-badge)
+
+---
+
+## ☕ System Status
+
+```bash
+$ sudo find motivation
+
+> motivation not found
+> retrying...
+> retry failed successfully
+```
+
+```bash
+Backend Skills Loading ███████░░░ 78%
+Mental Health        ██░░░░░░░░░ 12%
+Sleep                ░░░░░░░░░░  1%
+```
+
+---
+
+## 🛰️ Console Log
+
+```bash
+[INFO] Connecting to database...
+[SUCCESS] Connected.
+
+[INFO] Starting life...
+[ERROR] Unexpected bills detected.
+
+[INFO] Trying to become millionaire...
+[WARNING] Process may take years.
+```
